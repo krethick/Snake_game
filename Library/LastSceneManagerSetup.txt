@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/test/PLAYSHIFU_GAME.unity
+- path: Assets/Important_Scene/Credits.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

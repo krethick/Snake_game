@@ -8,13 +8,13 @@ public class Mainmenu : MonoBehaviour
     // Start is called before the first frame update
     public void ButtonStart()
     {
-        SceneManager.LoadScene("PLAYSHIFU_GAME");
+        SceneManager.LoadScene("SNAKE_GAME");
     }
 
     // Update is called once per frame
     public void ButtonCredit()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
     public void ButtonQuit()

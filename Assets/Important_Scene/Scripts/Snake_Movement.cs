@@ -38,8 +38,8 @@ public class Snake_Movement : MonoBehaviour
         float totalspeed = speed * Time.deltaTime;
         float totalrotate = rotateSpeed * Time.deltaTime;
 
-      //  if (Input.GetKey("up"))
-       // {
+      // if (Input.GetKey("up"))
+      // {
             transform.Translate(0, 0, totalspeed);
             //This is the logic for converting all normal tiles to green
             Vector3Int Snake = tiles.WorldToCell(transform.position);
@@ -56,6 +56,7 @@ public class Snake_Movement : MonoBehaviour
             }
         }
     }
+   // }
 
 
 bool AreAllTilesGreen()

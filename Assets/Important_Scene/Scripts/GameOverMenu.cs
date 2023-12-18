@@ -9,7 +9,7 @@ public class GameOverMenu : MonoBehaviour
     // Start is called before the first frame update
     public void ButtonRestart()
     {
-        SceneManager.LoadScene("PLAYSHIFU_GAME");
+        SceneManager.LoadScene("SNAKE_GAME");
     }
 
     // Update is called once per frame

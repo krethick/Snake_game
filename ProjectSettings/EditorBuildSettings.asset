@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/test/UI.unity
+    path: Assets/Important_Scene/UI.unity
     guid: b7b198f06b058af448a7a249d229ee03
   - enabled: 1
-    path: Assets/test/Credits.unity
-    guid: d351fec9d69bd934ba4ecd6141b1a3a2
-  - enabled: 1
-    path: Assets/test/PLAYSHIFU_GAME.unity
+    path: Assets/Important_Scene/SNAKE_GAME.unity
     guid: f60b8b5974ab09c4ba92e8ecc0d42843
   - enabled: 1
-    path: Assets/test/Game_Over.unity
+    path: Assets/Important_Scene/Credits.unity
+    guid: d351fec9d69bd934ba4ecd6141b1a3a2
+  - enabled: 1
+    path: Assets/Important_Scene/Game_Over.unity
     guid: 31a49a70f5028fa42882719bb067ae49
   m_configObjects: {}
